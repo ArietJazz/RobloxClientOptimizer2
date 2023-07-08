@@ -63,7 +63,7 @@
 "FFlagRigidBodyLazyUpdating": true,
 "DFFlagTaskSchedulerAvoidYieldInBackground": true,
 "DFFlagTaskSchedulerBlockingShutdownInClients": true,
-"DFIntTaskSchedulerTargetFps": 1000000,
+"DFIntTaskSchedulerTargetFps": 165,
 "DFFlagThrottleDeveloperConsoleEvents": true,
 "DFFlagAudioEnableVolumetricPanningForMeshes": true,
 "DFFlagAudioEnableVolumetricPanningForPolys": true,
